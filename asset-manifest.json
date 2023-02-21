@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf315d8c.css",
+    "main.js": "/static/js/main.3b38d26d.js",
+    "static/media/card-bg.jpg": "/static/media/card-bg.5ebd1d2a73030d0ffcde.jpg",
+    "static/media/open-sans-v29-latin_cyrillic-regular.woff": "/static/media/open-sans-v29-latin_cyrillic-regular.357fd6edbf9de5d51a91.woff",
+    "static/media/open-sans-v29-latin_cyrillic-700.woff": "/static/media/open-sans-v29-latin_cyrillic-700.e2b5a349bd45093d6993.woff",
+    "static/media/open-sans-v29-latin_cyrillic-regular.woff2": "/static/media/open-sans-v29-latin_cyrillic-regular.d0378a7641136f5d48e3.woff2",
+    "static/media/open-sans-v29-latin_cyrillic-700.woff2": "/static/media/open-sans-v29-latin_cyrillic-700.6a33ff8a2442a9c6eeb9.woff2",
+    "static/media/vk.svg": "/static/media/vk.157285cd4256af66cf167ae3b72972db.svg",
+    "static/media/tg.svg": "/static/media/tg.727698122fee597c6ff2c7baaa6e44f2.svg",
+    "static/media/pinterest.svg": "/static/media/pinterest.26c6cd095e1cf65bef68e1e2264d2028.svg",
+    "static/media/stumbleupon.svg": "/static/media/stumbleupon.1ea1bfe7b04e20c62bdd002b427993ee.svg",
+    "index.html": "/index.html",
+    "main.bf315d8c.css.map": "/static/css/main.bf315d8c.css.map",
+    "main.3b38d26d.js.map": "/static/js/main.3b38d26d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf315d8c.css",
+    "static/js/main.3b38d26d.js"
+  ]
+}
